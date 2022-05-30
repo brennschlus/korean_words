@@ -16,7 +16,7 @@ register.sh
 cabal-tests.log
 bootstrap/*.plan.json
 
-/dist-newstyle
+/dist-newstyle/
 /Cabal/dist/
 /Cabal/tests/Setup
 /Cabal/Setup
